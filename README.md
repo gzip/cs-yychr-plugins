@@ -5,7 +5,7 @@ A selection of plugins for the graphics editor YY-CHR.NET. The following plugins
 
 ## Installing Plugins
 
-To install a plugin, download it from the [releases](/gzip/cs-yychr-plugins/releases) page and unzip the dll file to the `Plugins` folder of your YY-CHR installation.
+To install a plugin, download it from the [releases](https://github.com/gzip/cs-yychr-plugins/releases/latest) page and unzip the dll file to the `Plugins` folder of your YY-CHR installation.
 
 ## Building Plugins
 
